@@ -1,0 +1,26 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #e7ecef;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.jumbotron {
+  background-image: url("https://us.123rf.com/450wm/vasya/vasya1606/vasya160600011/59949815-stock-illustration-set-burger-vector-illustration-pop-art-style.jpg?ver=6");
+  background-repeat: no-repeat;
+  background-size: cover ;
+  padding: 2rem 2rem;
+}
